@@ -1,0 +1,7 @@
+C:\Users\smanchanda\Downloads\WcfHotelService\WcfHotelService\obj\Debug\WcfHotelService.csprojAssemblyReference.cache
+C:\Users\smanchanda\Downloads\WcfHotelService\WcfHotelService\obj\Debug\WcfHotelService.csproj.CoreCompileInputs.cache
+C:\Users\smanchanda\Downloads\WcfHotelService\WcfHotelService\bin\Debug\WcfHotelService.dll.config
+C:\Users\smanchanda\Downloads\WcfHotelService\WcfHotelService\bin\Debug\WcfHotelService.dll
+C:\Users\smanchanda\Downloads\WcfHotelService\WcfHotelService\bin\Debug\WcfHotelService.pdb
+C:\Users\smanchanda\Downloads\WcfHotelService\WcfHotelService\obj\Debug\WcfHotelService.dll
+C:\Users\smanchanda\Downloads\WcfHotelService\WcfHotelService\obj\Debug\WcfHotelService.pdb
